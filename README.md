@@ -3,7 +3,7 @@
 This is an attempt to make a social media website.
 Codeial = Code + Social
 
-This project is made using node.js, Express, MongoDB and EJS.
+This project is made using node.js, Express, MongoDB, Passport, Passport Local, Cookie-parser and Connect mongo.
 
 ## How to run the project?
 
